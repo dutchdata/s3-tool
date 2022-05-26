@@ -21,4 +21,4 @@
 
 ## Next Major Version
 
-In the next major version, the applet will parse CloudTrail data events (as opposed to management events, etc) and display the number of daily GetObject, PutObject, and DeleteObject events for the lifetime of the bucket. 
+In the next major version, the applet will parse CloudTrail data events and display the number of daily GetObject, PutObject, and DeleteObject events for the lifetime of each bucket. 
